@@ -1,0 +1,16 @@
+Project 1 - Open CLI calculator
+
+1. Ask the user to enter a number.
+2. Make sure it is a valid number.
+3. Ask the user to choose an operator. 
+4. Only accept allowed operators.
+5. Ask the user to submit the second number.
+6. Check whether it is a valid number.
+7. Perform the selected operation 
+    If + -> add
+    If - -> substract
+    If / -> divide
+    If * -> multiply
+8. Ask the user, whther they need to close the application.
+    If yes repeat the process
+    If no quit.
